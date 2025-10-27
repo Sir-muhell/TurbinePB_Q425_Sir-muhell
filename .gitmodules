@@ -1,0 +1,3 @@
+[submodule "Rustlings"]
+	path = Rustlings
+	url = https://github.com/Sir-muhell/Rustlings
