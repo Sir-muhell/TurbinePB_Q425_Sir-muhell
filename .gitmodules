@@ -1,3 +1,6 @@
 [submodule "Rustlings"]
 	path = Rustlings
 	url = https://github.com/Sir-muhell/Rustlings
+[submodule "spl-tokens"]
+	path = spl-tokens
+	url = https://github.com/Sir-muhell/spl-tokens
