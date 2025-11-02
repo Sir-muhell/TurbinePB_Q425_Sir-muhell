@@ -4,3 +4,6 @@
 [submodule "spl-tokens"]
 	path = spl-tokens
 	url = https://github.com/Sir-muhell/spl-tokens
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/Sir-muhell/anchor-vault
