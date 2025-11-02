@@ -14,3 +14,4 @@ A repository to document my learning journey in Turbin 3. Everything I do and le
 | Rustlings                       | Exercises from rustlings.rs.                                                                                                                |
 | Rust Counting Program           | Simple counter project using anchor.                                                                                                        |
 | RNG Game                        | This contains 3 projects (Hello cargo, Number guessing game, and simple counting loop) all using cargo.                                     |
+| Spl Token                       | A Typescript Project to Mint Token with Solana Program Library.                                                                             |
